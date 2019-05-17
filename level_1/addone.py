@@ -1,8 +1,8 @@
-import unittest
-
-
 def addone(x: int) -> int:
     pass
+
+
+import unittest
 
 
 class Tests(unittest.TestCase):
